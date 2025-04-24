@@ -25,13 +25,13 @@ const Achievement = () => {
 
       <div className="achievement-card">
         <div className="achievement-image">
-          <img src={LeetCode} alt="LeetCode 100 Days" />
+          <img src={LeetCode} alt="LeetCode 50 Days" />
         </div>
         <div className="achievement-text">
           <h2>LeetCode 50 Days Badge – 2024</h2>
           <p>
             Earned the prestigious LeetCode 50 Days Badge in 2024 for
-            maintaining an active streak of problem-solving over 100 consecutive
+            maintaining an active streak of problem-solving over 50 consecutive
             days. Recognized among the top 4.2% of global users, showcasing
             dedication, consistency, and technical proficiency.
           </p>
