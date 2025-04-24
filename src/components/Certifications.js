@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/Certifications.css";
 import HTMLCSSJS from "../assets/certifications/image.png";
-import Nodejs from "../assets/certifications/Nodejs.png";
 import PHP from "../assets/certifications/flutter_udemy.jpg";
 import DSA from "../assets/certifications/dsagfg.jpg";
 import CloudComputing from "../assets/certifications/nptelcloud.png";
