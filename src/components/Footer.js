@@ -7,19 +7,19 @@ const Footer = () => {
 
   return (
     <footer className="footer">
-      <p className="footer-text">Designed and Developed by Nikhil Kumar</p>
+      <p className="footer-text">Designed and Developed by Ravi Shankar Kumar</p>
       <div className="footer-icons">
-        <a href="https://www.instagram.com/nikhil_kumar_264/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/cool_dude9525/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
-        <a href="https://github.com/Nikhil122172" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ravi3018" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://www.linkedin.com/in/nikhil-kumar-17b822256/" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/r-k-00491123a" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
       </div>
-      <p className="footer-copyright">© {year} NK. All rights reserved.</p>
+      <p className="footer-copyright">© {year} RK. All rights reserved.</p>
     </footer>
   );
 };

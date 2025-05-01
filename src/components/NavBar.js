@@ -4,7 +4,7 @@ import '../styles/NavBar.css';
 const NavBar=()=>{
     return(
         <div className="navbar">
-            <div className="logo">Nikhil Kumar</div>
+            <div className="logo">Ravi Shankar Kumar</div>
             <ul className="navlinks">
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/aboutme">AboutMe</Link></li>

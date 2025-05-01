@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "../styles/Home.css";
-import HomeImg from '../assets/images/nikhilimg.jpg';
+import HomeImg from '../assets/images/raviimg2.png';
 
 const Home = () => {
   const [text, setText] = useState('');
@@ -36,7 +36,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <div className="home-left">
-        <h1>Hi there,<br />I am <span className="highlight">Nikhil Kumar</span></h1>
+        <h1>Hi there,<br />I am <span className="highlight">Ravi Shankar Kumar</span></h1>
         <div className="dynamic-text">
           <span className="typing">{text}</span>
           <span className="cursor">|</span>
@@ -45,7 +45,7 @@ const Home = () => {
       <div className="home-right">
         <img
           src={HomeImg}
-          alt="Nikhil Kumar"
+          alt="RK"
           className="home-image floating"
         />
       </div>

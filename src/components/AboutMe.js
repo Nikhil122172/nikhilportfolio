@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MyImage from "../assets/images/nikhilimg2.jpg";
+import MyImage from "../assets/images/raviimg2.png";
 import "../styles/AboutMe.css";
 
 const AboutMe = () => {
@@ -16,7 +16,7 @@ const AboutMe = () => {
       <div className="about-right">
         <h1>About Me</h1>
         <p>
-          Hi! I'm Nikhil Kumar, a passionate full-stack developer who loves building web
+          Hi! I'm Ravi Shankar Kumar, a passionate full-stack developer who loves building web
           applications that solve real-world problems. I’m enthusiastic about technology and
           constantly learning new tools and frameworks to improve my craft.
         </p>
