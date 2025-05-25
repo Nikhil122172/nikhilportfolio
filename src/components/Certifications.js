@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Certifications.css";
-import HTMLCSSJS from "../assets/certifications/image.png";
-import PHP from "../assets/certifications/flutter_udemy.jpg";
+import HTMLCSSJS from "../assets/certifications/ravic.png";
+import PHP from "../assets/certifications/ravic2.png";
 import DSA from "../assets/certifications/dsagfg.jpg";
 import CloudComputing from "../assets/certifications/nptelcloud.png";
 
@@ -9,7 +9,7 @@ const Certifications = () => {
   const certificates = [
     {
       image: HTMLCSSJS,
-      name: "React, Nodejs & Expressjs, and Mongodb for Web Developers - Udemy",
+      name: "JavaScript, Nodejs & Expressjs for Web Developers - Udemy",
     },
     // {
     //   image: Nodejs,
@@ -17,16 +17,16 @@ const Certifications = () => {
     // },
     {
       image: PHP,
-      name: "Building Mobile Applications in Flutter - Udemy",
+      name: "Python for beginner - Udemy",
     },
-    {
-      image: DSA,
-      name: "GeeksForGeeks - Data Structures: Deep Dive Using Java",
-    },
-    {
-      image: CloudComputing,
-      name: "Cloud Computing - NPTEL",
-    },
+    // {
+    //   image: DSA,
+    //   name: "GeeksForGeeks - Data Structures: Deep Dive Using Java",
+    // },
+    // {
+    //   image: CloudComputing,
+    //   name: "Cloud Computing - NPTEL",
+    // },
   ];
 
   return (

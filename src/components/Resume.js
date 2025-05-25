@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Resume.css";
-import NikhilCv from '../assets/Achievements/12217213_CV.pdf';
+import NikhilCv from '../assets/Achievements/Ravi Updated CV.pdf';
 
 
 const Resume = () => {
